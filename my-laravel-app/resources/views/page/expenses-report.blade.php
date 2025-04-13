@@ -369,7 +369,7 @@
                   <th style="color: white; font-weight: 500;">Action</th>
                 </tr>
               </thead>
-              <tbody>
+              <tbody> 
                 <tr>
                   <td>2024-01-15</td>
                   <td>INV-2024-001</td>
